@@ -11,5 +11,7 @@ usage:
 
   
 example:
-    python3 alias.py ls listdir         # creates an alias for ls command, the new alias name is listdir, you can run listdir instead of ls it will do the same thing, its like a linker to ls command.
+    python3 alias.py ls listdir        
+    
+    # creates an alias for ls command, the new alias name is listdir, you can run listdir instead of ls it will do the same thing, its like a linker to ls command.
     
